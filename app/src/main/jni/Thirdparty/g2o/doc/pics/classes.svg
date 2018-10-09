@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    height="5.0999999in" id="svg2" version="1.1"
+    viewBox="648 459 9237 6072" width="7.6999998in" xmlns="http://www.w3.org/2000/svg" inkscape:version="0.48.3.1 r9886"
+    sodipodi:docname="classes.svg">
+    <sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10"
+        guidetolerance="10" id="namedview85" objecttolerance="10" pagecolor="#ffffff"
+        showgrid="false" inkscape:current-layer="svg2" inkscape:cx="170.14064"
+        inkscape:cy="246.16979" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1004"
+        inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0"
+        inkscape:window-y="24" inkscape:zoom="1.6854257" />
+    <metadata id="metadata168">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs166" />
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect6" rx="0" width="1228" x="661" y="566" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text8"
+     x="755"
+     y="755"
+     xml:space="preserve">HyperGraph</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect10" rx="0" width="1984" x="2929" y="755" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text12"
+     x="3023"
+     y="944"
+     xml:space="preserve">HyperGraph::Vertex</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect14" rx="0" width="1795" x="5480" y="472" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text16"
+     x="5574"
+     y="661"
+     xml:space="preserve">HyperGraph::Edge</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect18" rx="0" width="2362" x="5480" y="1889" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text20"
+     x="5574"
+     y="2078"
+     xml:space="preserve">OptimizableGraph::Edge</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect22" rx="0" width="2456" x="2929" y="2173" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text24"
+     x="3023"
+     y="2362"
+     xml:space="preserve">OptimizableGraph::Vertex</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect26" rx="0" width="1795" x="661" y="1984" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text28"
+     x="755"
+     y="2173"
+     xml:space="preserve">OptimizableGraph</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect30" rx="0" width="1606" x="661" y="3496" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text32"
+     x="755"
+     y="3685"
+     xml:space="preserve">SparseOptimizer</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect34" rx="0" width="755" x="5050.1567" y="4314.3662" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text36"
+     x="5144.1567"
+     y="4503.3662"
+     xml:space="preserve">Solver</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect38" rx="0" width="1322" x="7318.1567" y="4975.3662" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text40"
+     x="7412.1567"
+     y="5164.3662"
+     xml:space="preserve">LinearSolver</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect42" rx="0" width="3921" x="5952" y="3023" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text44"
+     x="6047"
+     y="3212"
+     xml:space="preserve">BaseBinaryEdge&lt;D,E,VertexXi,VertexXj&gt;</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect46" rx="0" width="2078" x="5669" y="3307" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text48"
+     x="5763"
+     y="3496"
+     xml:space="preserve">BaseMultiEdge&lt;D,E&gt;</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect50" rx="0" width="3023" x="6236" y="2740" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text52"
+     x="6330"
+     y="2929"
+     xml:space="preserve">BaseUnaryEdge&lt;D,E,VertexXi&gt;</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect54" rx="0" width="1795" x="2929" y="3023" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text56"
+     x="3023"
+     y="3212"
+     xml:space="preserve">BaseVertex&lt;D, T&gt;</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect58" rx="0" width="1984" x="7885.1567" y="5637.3662" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text60"
+     x="7979.1567"
+     y="5826.3662"
+     xml:space="preserve">LinearSolverPCG&lt;&gt;</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect62" rx="0" width="2267" x="7601.1567" y="5920.3662" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text64"
+     x="7696.1567"
+     y="6109.3662"
+     xml:space="preserve">LinearSolverCSparse&lt;&gt;</text>
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect66" rx="0" width="2456" x="7318.1567" y="6204.3662" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text68"
+     x="7412.1567"
+     y="6393.3662"
+     xml:space="preserve">LinearSolverlCholmod&lt;&gt;</text>
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline70"
+        points="6472,5102 7730,5102 " transform="translate(1739.8459,-4428.6986)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline72"
+        points="7619 5133 7745 5102 7619 5070 " transform="translate(1739.8459,-4428.6986)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:41, 41"
+        id="polyline74"
+        points="6472,5574 7730,5574 " transform="translate(1739.8459,-4428.6986)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline76"
+        points="7619 5606 7745 5574 7619 5543 " transform="translate(1739.8459,-4428.6986)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:31, 9, 10, 9, 10, 9"
+        id="polyline78"
+        points="6472,6047 7730,6047 " transform="translate(1739.8459,-4428.6986)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline80"
+        points="7619 6078 7745 6047 7619 6015 " transform="translate(1739.8459,-4428.6986)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline82"
+        points="1228,1984 1228,867 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline84"
+        points="1259 978 1228 852 1196 978 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline86"
+        points="1228,3496 1228,2284 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline88"
+        points="1259 2395 1228 2269 1196 2395 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:31, 9, 10, 9, 10, 9"
+        id="polyline90"
+        points="1889,803 2912,896 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline92"
+        points="2797 917 2927 897 2804 854 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:31, 9, 10, 9, 10, 9"
+        id="polyline94"
+        points="1889,614 5415,614 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline96"
+        points="5304 645 5430 614 5304 582 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline98"
+        points="3874,2173 3874,1056 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline100"
+        points="3905 1167 3874 1041 3842 1167 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline102"
+        points="3874,3023 3874,2473 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline104"
+        points="3905 2584 3874 2458 3842 2584 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline106"
+        points="6425,1889 6425,772 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline108"
+        points="6456 883 6425 758 6393 883 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline110"
+        points="6377,2740 6377,2190 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline112"
+        points="6409 2301 6377 2175 6346 2301 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline114"
+        points="6094,3023 6094,2190 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline116"
+        points="6125 2301 6094 2175 6062 2301 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline118"
+        points="5811,3307 5811,2190 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline120"
+        points="5842 2301 5811 2175 5779 2301 " />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline126"
+        points="1228,4629 1228,4990 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline128"
+        points="1196 4879 1228 5005 1259 4879 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline130"
+        points="3637,5669 3637,5308 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline132"
+        points="3669 5419 3637 5293 3606 5419 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline134"
+        points="3070,6236 3070,5308 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline136"
+        points="3102 5419 3070 5293 3039 5419 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline138"
+        points="3354,5905 3354,5308 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline140"
+        points="3385 5419 3354 5293 3322 5419 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:41, 41"
+        id="polyline142"
+        points="2125,5149 2911,5149 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline144"
+        points="2801 5181 2927 5149 2801 5118 " transform="translate(4389.1567,-31.633567)" />
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect146" rx="0" width="1464" x="5050.1567" y="4975.3662" />
+    <rect style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect148" rx="0" width="2173" x="5050.1567" y="5731.3662" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:41, 41"
+        id="polyline150"
+        points="1228,5291 1228,5745 " transform="translate(4389.1567,-31.633567)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline152"
+        points="1196 5635 1228 5761 1259 5635 " transform="translate(4389.1567,-31.633567)" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text154"
+     x="8211.8457"
+     y="862.30139"
+     xml:space="preserve">is-a</text>
+  <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text156"
+     x="8211.8457"
+     y="1334.3014"
+     xml:space="preserve">has-a</text>
+  <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text158"
+     x="8211.8457"
+     y="1807.3014"
+     xml:space="preserve">has-many</text>
+  <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text160"
+     x="5144.1567"
+     y="5164.3662"
+     xml:space="preserve">BlockSolver&lt;&gt;</text>
+  <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text162"
+     x="5144.1567"
+     y="5920.3662"
+     xml:space="preserve">SparseBlockMatrix&lt;T&gt;</text>
+    <rect
+        style="fill:none;stroke:#000000;stroke-width:8.1605711;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect146-9" rx="0" width="1523.3588" x="651.48029" y="4356.3247" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text160-0"
+     x="673.39374"
+     y="4532.8521"
+     xml:space="preserve">OptimizationAlgorithm</text>
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:41, 41"
+        id="polyline150-8"
+        points="1228,5291 1228,5745 "
+        transform="matrix(0.98775282,0,0,1.2171011,20.754305,-2658.8828)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline152-1"
+        points="1196 5635 1228 5761 1259 5635 "
+        transform="matrix(0.98775282,0,0,1.2171011,20.754305,-2658.8828)" />
+    <rect
+        style="fill:none;stroke:#000000;stroke-width:8.58023071;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect146-9-4" rx="0" width="1684.0658" x="2780.7915" y="4340.5083" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text160-0-6"
+     x="2802.7051"
+     y="4517.0356"
+     xml:space="preserve">OptimizationWithHessian</text>
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline70-6"
+        points="6472,5102 7730,5102 "
+        transform="matrix(-0.44839303,-0.00167516,0.00524094,-1.4028508,5639.4577,11662.422)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline72-4"
+        points="7619 5133 7745 5102 7619 5070 "
+        transform="matrix(-0.44839303,-0.00167516,0.00524094,-1.4028508,5639.4577,11662.422)" />
+    <rect
+        style="fill:none;stroke:#000000;stroke-width:6.05169964;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect58-4" rx="0" width="1135.3152" x="3348.0164" y="4988.397" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text60-2"
+     x="3442.0164"
+     y="5177.397"
+     xml:space="preserve">Gauss-Newton</text>
+    <rect
+        style="fill:none;stroke:#000000;stroke-width:6.34478855;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect62-5" rx="0" width="1425.9553" x="3064.0164" y="5271.397" />
+    <text
+     style="font-size:152.44767761px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text64-8"
+     transform="scale(1.0029452,0.99706343)"
+     x="3086.6475"
+     y="5476.479"
+     xml:space="preserve">Levenberg-Marquardt</text>
+    <rect
+        style="fill:none;stroke:#000000;stroke-width:6.691782;stroke-linecap:butt;stroke-linejoin:miter"
+        height="283" id="rect66-9" rx="0" width="1718.4303" x="2781.0164" y="5555.397" />
+    <text
+     style="font-size:152px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+     id="text68-4"
+     x="2851.2913"
+     y="5744.397"
+     xml:space="preserve">Powell's dogleg</text>
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline130-5"
+        points="3637,5669 3637,5308 " transform="translate(-147.98383,-680.60305)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline132-8"
+        points="3669 5419 3637 5293 3606 5419 " transform="translate(-147.98383,-680.60305)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline134-8"
+        points="3070,6236 3070,5308 " transform="translate(-147.98383,-680.60305)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline136-7"
+        points="3102 5419 3070 5293 3039 5419 " transform="translate(-147.98383,-680.60305)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter"
+        id="polyline138-1"
+        points="3354,5905 3354,5308 " transform="translate(-147.98383,-680.60305)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline140-1"
+        points="3385 5419 3354 5293 3322 5419 " transform="translate(-147.98383,-680.60305)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:41, 41"
+        id="polyline142-7"
+        points="2125,5149 2911,5149 "
+        transform="matrix(0.71713347,0,0,0.6628443,2937.0212,1041.0121)" />
+    <polyline style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8" id="polyline144-3"
+        points="2801 5181 2927 5149 2801 5118 "
+        transform="matrix(0.71713347,0,0,0.6628443,2937.0212,1041.0121)" />
+</svg>
